@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+header{
+  background-color: lightblue;
+  padding: 1rem;
+}
+
+footer{
+  background-color: ghostwhite;
+  padding: 1rem;
+}
